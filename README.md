@@ -20,7 +20,7 @@
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="25"></picture> About Me
 - 👨‍💻 Lua, HTML, and CSS enthusiast.
-- 🌱 Always exploring new tools and techniques in web development.
+- 🌱 Always exploring new tools and techniques in FiveM development.
 - 💡 I love working on creative projects, particularly around Lua scripting.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
